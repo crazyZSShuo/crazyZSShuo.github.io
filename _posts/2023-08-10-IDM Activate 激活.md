@@ -1,7 +1,6 @@
 ## 已安装IDM请先执行完全卸载清除
 
-## 官网下载最新版本IDM并安装完成
-[IDM](https://www.internetdownloadmanager.com/download.html)
+## 官网下载最新版本IDM并安装完成  ---> [IDM](https://www.internetdownloadmanager.com/download.html)  [chrome 扩展下载地址](https://chrome.google.com/webstore/detail/idm-integration-module/ngpampappnmepgilojfohadhhmbhlaek)
 
 ## 打开powershell命令端，粘贴以下代码
 ```
