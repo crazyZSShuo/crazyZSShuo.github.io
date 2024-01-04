@@ -27,7 +27,7 @@ sudo ln -sf /usr/local/bin/python3.8 /usr/bin/python3
 
 ```
 
-`这会将python3.8设置为python3的默认版本。请确保在进行此操作之前已经备份了系统，并且您了解潜在的影响。
+`这会将python3.8设置为python3的默认版本。请确保在进行此操作之前已经备份了系统，并且您了解潜在的影响。`
 
-在完成上述步骤后，您可以使用python3 --version命令来验证默认的Python 3版本是否已更改为3.8。`
+`在完成上述步骤后，您可以使用python3 --version命令来验证默认的Python 3版本是否已更改为3.8。`
 
